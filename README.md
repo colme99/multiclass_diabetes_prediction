@@ -1,3 +1,12 @@
-# multiclass_diabetes_prediction
+# Multiclass Diabetes Prediction
 
-Repository of the master's thesis of Bioinformatic and Biostatistics (Universitat Oberta de Catalunya, Universitat de Barcelona), developed by Carlos Colmenero Gómez Cambronero.
+This repository contains the Master's thesis project in Bioinformatics and Biostatistics developed by Carlos Colmenero Gómez Cambronero at the Universitat Oberta de Catalunya and Universitat de Barcelona.
+
+## Dataset Attribution
+Within the `data` folder of this repository, you will find a subset of the observations from the "Mendeley Diabetes Dataset," which was utilized to test the predictive model described in this thesis. This dataset is not owned by the author of this thesis. Full rights to the dataset belong to:
+
+**Author:** Rashid, A.  
+**Publication Year:** 2020  
+**DOI:** [10.17632/wj9rwkp9c2.1](http://www.doi.org/10.17632/wj9rwkp9c2.1)
+
+Please cite the original source when using this dataset for any purpose.
