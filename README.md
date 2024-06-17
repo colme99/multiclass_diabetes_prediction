@@ -10,3 +10,7 @@ Within the `data` folder of this repository, you will find a subset of the obser
 **DOI:** [10.17632/wj9rwkp9c2.1](http://www.doi.org/10.17632/wj9rwkp9c2.1)
 
 Please cite the original source when using this dataset for any purpose.
+
+## Reproducibility
+
+To reproduce the results obtained in the thesis, please install the specific libraries and versions indicated in `requirements.txt`.
