@@ -11,6 +11,10 @@ Within the `data` folder of this repository, you will find a subset of the obser
 
 Please cite the original source when using this dataset for any purpose.
 
+## Code
+
+Inside the `code` folder, the file `multiclass_diabetes_prediction.ipynb` is a Jupyter notebook with the complete analysis process, whereas the files `multiclass_diabetes_prediction_app.py` contains the whole implementation of the web application.
+
 ## Reproducibility
 
 To reproduce the results obtained in the thesis, please install the specific libraries and versions indicated in `requirements.txt`.
